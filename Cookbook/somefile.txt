@@ -1,0 +1,28 @@
+peuw1:video:app:a	10.50.1.221	running	eu-west-1a	c3.2xlarge
+peuw1:video:app:a	10.50.1.225	running	eu-west-1a	c3.2xlarge
+peuw1:video:app:a	10.50.1.222	running	eu-west-1a	c3.2xlarge
+✔ ~/git/ansible_playbooks/backup-to-gitlab [master|✔]
+16:54 $ aws_find video
+ueuw1:video:app:b	10.50.52.96	running	eu-west-1b	m3.large
+u3euw1:video:app:b	10.50.182.54	running	eu-west-1b	c3.2xlarge
+u3euw1:video:app:b	10.50.182.55	running	eu-west-1b	c3.2xlarge
+u3euw1:video:app:b	10.50.182.52	running	eu-west-1b	c3.2xlarge
+u3euw1:video:app:b	10.50.182.53	running	eu-west-1b	c3.2xlarge
+u2euw1:video:app:a	10.50.161.253	running	eu-west-1a	m3.large
+u3euw1:video-dcm-mocks:app:a	10.50.181.101	running	eu-west-1a	c3.xlarge
+u3euw1:video-dcm-mocks:app:a	10.50.181.100	running	eu-west-1a	c3.xlarge
+ueuw1:video-third-party-mocks:app:a	10.50.51.86	running	eu-west-1a  	m1.medium
+u3euw1:video-dcm-mocks:app:b	10.50.182.4	running	eu-west-1b	c3.xlarge
+u3euw1:video-dcm-mocks:app:b	10.50.182.5	running	eu-west-1b	c3.xlarge
+u3euw1:video:app:a	10.50.181.166	running	eu-west-1a	c3.2xlarge
+u3euw1:video-third-party-mocks:app:a	10.50.181.164	running	eu-west-1a  	c3.xlarge
+u3euw1:video-third-party-mocks:app:b	10.50.182.144	running	eu-west-1b  	c3.xlarge
+u3euw1:video-third-party-mocks:app:b	10.50.182.171	running	eu-west-1b  	c3.xlarge
+ueuw1:video:app:a	10.50.51.6	running	eu-west-1a	m3.large
+u3euw1:video-demo:app:a	10.50.181.81	running	eu-west-1a	m3.medium
+u3euw1:video-third-party-mocks:app:a	10.50.181.15	running	eu-west-1a  	c3.xlarge
+u2euw1:video:app:b	10.50.162.191	running	eu-west-1b	m3.large
+u3euw1:video:app:a	10.50.181.118	running	eu-west-1a	c3.2xlarge
+u3euw1:video:app:a	10.50.181.117	running	eu-west-1a	c3.2xlarge
+u3euw1:video:app:a	10.50.181.116	running	eu-west-1a	c3.2xlarge
+✔ ~/git/ansible_playbooks/backup-to-gitlab [master|✔]
